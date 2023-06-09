@@ -1,5 +1,3 @@
-print('this line is add after push github')
-
 #hello, python
 
 # Ordering Spam, egg, Spam, Spam, bacon and Spam (4 more servings of Spam)
