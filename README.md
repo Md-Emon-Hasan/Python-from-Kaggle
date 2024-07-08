@@ -34,7 +34,6 @@ The objective of this project is to offer a hands-on approach to learning Python
 
 - **Comprehensive Tutorials:** Step-by-step Python tutorials covering a wide range of topics.
 - **Practical Examples:** Real-world examples and exercises sourced from Kaggle.
-- **Interactive Notebooks:** Jupyter notebooks for interactive learning and experimentation.
 - **Well-Commented Code:** Clear and concise code with detailed comments for better understanding.
 - **Diverse Topics:** Coverage of various Python topics including data manipulation, visualization, machine learning, and more.
 
@@ -43,10 +42,6 @@ The objective of this project is to offer a hands-on approach to learning Python
 ## 🛠️ Technology Stack
 
 - **Python:** The primary programming language used in this project.
-- **Jupyter Notebook:** An open-source web application for creating and sharing documents that contain live code, equations, visualizations, and narrative text.
-- **Pandas:** A powerful data manipulation and analysis library for Python.
-- **Matplotlib & Seaborn:** Libraries for creating static, animated, and interactive visualizations in Python.
-- **Scikit-Learn:** A machine learning library for Python.
 
 ---
 
@@ -56,7 +51,7 @@ To get a local copy of this project up and running on your machine, follow these
 
 ### Prerequisites
 
-Ensure you have Python and Jupyter Notebook installed on your local machine. You can download Python from [here](https://www.python.org/downloads/) and Jupyter Notebook from [here](https://jupyter.org/install).
+Ensure you have Python and Jupyter Notebook installed on your local machine. You can download Python from [here](https://www.python.org/downloads/)
 
 ### Installation
 
@@ -146,7 +141,6 @@ During the development of this project, several challenges were encountered:
 Through the development process, several key lessons were learned:
 
 - **Enhanced Python Skills:** Improved proficiency in Python programming through practical exercises and real-world examples.
-- **Data Manipulation and Visualization:** Gained a deeper understanding of data manipulation techniques and visualization tools.
 - **Machine Learning Fundamentals:** Acquired foundational knowledge in machine learning and its applications using Python.
 
 ---
